@@ -3,18 +3,18 @@
 
 0
 
--------
+-------    x(4)
 
 9 6 F 6    零 zero
 
--------
+-------    hex
 
 8 6 0 B    蘋 apple
 6 7 9 C    果 fruit; result
 8 A 2 D    設 build; establish; display 
 8 A 0 8    計 plan, plot; strategem; scheme
 
--------
+-------    unicode
 
 7 6 7 C    發 to show, to issue, to develop
 8 8 6 8    表 express, manifest, display
@@ -25,3 +25,13 @@
 5 2 4 D    前 in front, forward; preceding
 8 D 7 7    起 rise, stand up; go up; begin
 7 2 0 6    爆 crackle, pop, burst, explode
+
+9 7 4 8    靈 spiritual world
+9 B 4 2    魂 soul, spirit
+5 3 9 F    原 source, origin, beginning
+5 9 C B    始 begin, start; then, only then
+
+5 8 5 1    塑 model in clay, sculpt; plastics
+9 0 2 0    造 construct, build, make, begin; prepare
+9 0 8 F    邏 logic, patrol; inspect; watch
+8 F 2 F    輯 gather up, collect; edit, compile
